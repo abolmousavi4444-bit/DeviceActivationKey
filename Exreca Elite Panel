@@ -11,11 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-   {
-        "device_id": "7a99bf985a51fb12",
-        "key": "Aboli",
-        "expirydate": "15-06-2030",
-        "Allowoffline": false
-    },
-
+{
+        "device_id": "7a99bf985a51fb12",
+        "key": "Aboli",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 ]

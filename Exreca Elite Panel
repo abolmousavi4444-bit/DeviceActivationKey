@@ -17,5 +17,10 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
-
+{
+        "device_id": "acdd6f51d9a3f9fe",
+        "key": "ALI",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 ]

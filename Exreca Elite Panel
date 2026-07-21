@@ -59,4 +59,10 @@
         "expirydate": "21-8-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "b93925f6ec6f058c",
+        "key": "gaiidi",
+        "expirydate": "21-8-9999",
+        "Allowoffline": false
+    },
 ]

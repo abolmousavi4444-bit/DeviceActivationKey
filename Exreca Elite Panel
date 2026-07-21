@@ -42,9 +42,15 @@
         "Allowoffline": false
     },
 {
-        "device_id": "d3777c24d6f077c8",
-        "key": "1Month",
-        "expirydate": "21-8-2026",
+        "device_id": "7e8ecf02bcc08e1f",
+        "key": "Zsaf",
+        "expirydate": "21-8-9999",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d44e949c3d64c7c9",
+        "key": "unlimited",
+        "expirydate": "31-12-9999",
         "Allowoffline": false
     },
 {

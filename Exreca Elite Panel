@@ -62,7 +62,13 @@
 {
         "device_id": "b93925f6ec6f058c",
         "key": "gaiidi",
-        "expirydate": "21-8-9999",
+        "expirydate": "21-8-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "68bfe57917424c1e",
+        "key": "arman1320",
+        "expirydate": "21-8-2026",
         "Allowoffline": false
     },
 ]

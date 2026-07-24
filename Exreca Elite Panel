@@ -101,10 +101,14 @@
         "expirydate": "24-8-2026",
         "Allowoffline": false
     },
-{
-        "device_id": "56d731cbc9265894",
+{       "device_id": "56d731cbc9265894",
         "key": "OSTOVAR",
         "expirydate": "24-8-9999",
+        "Allowoffline": false
+    },
+{       "device_id": "9e5319863d085c79",
+        "key": "ABOLFAZL",
+        "expirydate": "24-8-2026",
         "Allowoffline": false
     },
 ]

@@ -95,4 +95,10 @@
         "expirydate": "22-8-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "945e60dc77c2e0ff",
+        "key": "GODUMP",
+        "expirydate": "22-8-9999",
+        "Allowoffline": false
+    },
 ]
